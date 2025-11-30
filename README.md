@@ -7,8 +7,8 @@
 ---
 
 ### 🧠 About Me  
-🔍 AI + GenAI + Vision Automation enthusiast  
-⚙ I love turning concepts into real working systems  
+🔍 AI, GenAI & Computer Vision enthusiast  
+⚙ I love converting concepts → real working projects  
 🚀 Always exploring | Always building | Always improving
 
 ---
@@ -33,9 +33,18 @@
 
 ---
 
-### 📈 Activity Graph  
+### 📈 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awasthiutk564&theme=minimal&hide_border=true" width="750"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake (Auto Updating)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg"/>
 </p>
 
 ---
@@ -45,10 +54,4 @@
 <p align="center">
   <a href="https://github.com/Awasthiutk564"><img src="https://skillicons.dev/icons?i=github" width="42"></a>
   <a href="https://www.linkedin.com/in/utkarsh-awasthi-276a92367/"><img src="https://skillicons.dev/icons?i=linkedin" width="42"></a>
-</p>
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" alt="Snake animation" />
 </p>
