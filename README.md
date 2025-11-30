@@ -46,3 +46,9 @@
   <a href="https://github.com/Awasthiutk564"><img src="https://skillicons.dev/icons?i=github" width="42"></a>
   <a href="https://www.linkedin.com/in/utkarsh-awasthi-276a92367/"><img src="https://skillicons.dev/icons?i=linkedin" width="42"></a>
 </p>
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" alt="Snake animation" />
+</p>
