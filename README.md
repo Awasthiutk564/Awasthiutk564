@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me  
-🔍 AI, GenAI & Computer Vision enthusiast  
+🔍 AI, GenAI & IOT Enthusiast
 ⚙ Passionate about building real systems — not just ideas  
 🚀 Always exploring | Always building | Always improving  
 
@@ -55,7 +55,7 @@
 
 ---
 
-### 🐍 Contribution Snake (Auto Updating)
+### 🐍 Contribution 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg"/>
