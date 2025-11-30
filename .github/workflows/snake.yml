@@ -1,27 +1,32 @@
-name: ⚡ Generate Contribution Snake
+name: ⚡ Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Har 12 ghante me auto run
+    - cron: "0 */12 * * *"   # Runs twice daily
   workflow_dispatch:
+
+permissions:
+  contents: write   # 🔥 IMPORTANT FIX (Required to push output branch)
 
 jobs:
   generate:
-    runs-on: ubuntu-latest  # Ye GitHub ke cloud runner ke liye hai
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    runs-on: ubuntu-latest
 
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4      # Updated version
+
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3  # FIXED working variant
         with:
           github_user_name: Awasthiutk564
           outputs: dist/snake.svg
 
-      - name: Publish to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
+          keep_history: false
+          target_branch: output         # Where snake.svg is stored
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
