@@ -9,7 +9,7 @@
 ### 🧠 About Me  
 🔍 ML, GenAI & IOT Enthusiast
 ⚙ Passionate about building real systems — not just ideas  
-🚀 Always exploring | Always building | Always improving  
+🚀 Exploring | Building | Improving  
 
 ---
 
