@@ -1,13 +1,13 @@
 <h2 align="center">👋 Hey, I'm Utkarsh Awasthi</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?pause=1200&color=3A3A3AFF&center=true&vCenter=true&width=500&lines=Learning.+Building.+Shipping.+Repeating.;AI+%7C+GenAI+%7C+Vision+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?pause=1200&color=3A3A3AFF&center=true&vCenter=true&width=500&lines=Learning.+Building.+Praying.+Repeating.;AI+%7C+GenAI+%7C+Vision+Enthusiast"/>
 </p>
 
 ---
 
 ### 🧠 About Me  
-🔍 AI, GenAI & IOT Enthusiast
+🔍 ML, GenAI & IOT Enthusiast
 ⚙ Passionate about building real systems — not just ideas  
 🚀 Always exploring | Always building | Always improving  
 
