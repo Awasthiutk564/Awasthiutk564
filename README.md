@@ -8,8 +8,8 @@
 
 ## 🧠 About Me
 - 🔍 AI, GenAI & Computer Vision enthusiast  
-- ⚙ Turning ideas → real systems  
-- 🚀 Always exploring | Always building | Always improving  
+- ⚙️ Turning ideas → real working systems  
+- 🚀 Always exploring, always building  
 
 ---
 
@@ -31,24 +31,32 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Awasthiutk564?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/Awasthiutk564?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Awasthiutk564&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Awasthiutk564?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Awasthiutk564?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Awasthiutk564&style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (100% WORKING — Stable Mirrors)
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Awasthiutk564&show_icons=true&hide_border=true&theme=default&count_private=true&hide_title=true&icon_color=00000000" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Awasthiutk564&show_icons=true&hide_border=true&count_private=true" />
 
-  <img height="150" src="https://streak-stats.demolab.com?user=Awasthiutk564&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Awasthiutk564&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 🔥 Streak Stats (Stable Server)
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=Awasthiutk564&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph (Working)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awasthiutk564&theme=minimal&hide_border=true" width="90%" />
@@ -56,7 +64,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (LIVE)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
@@ -67,8 +75,13 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Awasthiutk564"><img src="https://skillicons.dev/icons?i=github" width="42" /></a>
-  <a href="https://www.linkedin.com/in/utkarsh-awasthi-276a92367/"><img src="https://skillicons.dev/icons?i=linkedin" width="42" /></a>
+  <a href="https://github.com/Awasthiutk564">
+    <img src="https://skillicons.dev/icons?i=github" width="42" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/utkarsh-awasthi-276a92367/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
+  </a>
 </p>
 
 ---
