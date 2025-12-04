@@ -6,35 +6,49 @@
 
 ---
 
-### 🧠 About Me
-
+### 🧠 About Me  
 - 🔍 AI, GenAI & Computer Vision enthusiast  
-- ⚙ I enjoy turning ideas into real, working systems  
-- 🚀 Always exploring, always building, always improving  
+- ⚙ Turning concepts into real working systems  
+- 🚀 Learning. Building. Shipping. Repeating.
 
 ---
 
 ### 🛠 Tech Stack
 
-| Category        | Tools                              |
-|----------------|------------------------------------|
-| Programming    | C, Python, MATLAB                  |
-| Embedded       | Arduino Programming                |
-| AI / ML        | PyTorch, OpenCV, Scikit-Learn      |
-| Data / Math    | NumPy, Matplotlib                  |
+| Category | Tools |
+|--------|---------------------------|
+| Programming | C, Python, MATLAB |
+| Embedded | Arduino Programming |
+| AI / ML | PyTorch, OpenCV, Scikit-Learn |
+| Data / Math | NumPy, Matplotlib |
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Achievements & Badges (WORKING)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Awasthiutk564&show_icons=true&hide_border=true&theme=default" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Awasthiutk564&hide_border=true&theme=default" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Awasthiutk564&theme=flat&no-frame=true&margin-w=10&column=7" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Awasthiutk564?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Awasthiutk564?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Awasthiutk564&style=for-the-badge" />
 </p>
 
 ---
 
-### 📈 Contribution Activity Graph
+## 📊 GitHub Stats (FIXED & WORKING)
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Awasthiutk564&show_icons=true&hide_border=true&theme=default&count_private=true" />
+
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Awasthiutk564&hide_border=true&theme=default" />
+</p>
+
+---
+
+## 📈 Activity Graph (WORKING)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awasthiutk564&theme=minimal&hide_border=true" width="90%" />
@@ -42,7 +56,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake (LIVE)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
@@ -50,12 +64,13 @@
 
 ---
 
-### 🌍 Connect With Me
+## 🌍 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Awasthiutk564">
     <img src="https://skillicons.dev/icons?i=github" width="42" />
   </a>
+
   <a href="https://www.linkedin.com/in/utkarsh-awasthi-276a92367/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
   </a>
