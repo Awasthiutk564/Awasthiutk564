@@ -24,7 +24,7 @@
 
 ---
 
-## 🏆 Achievements & Badges (WORKING)
+## 🏆 Achievements & Badges
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Awasthiutk564&theme=flat&no-frame=true&margin-w=10&column=7" width="90%" />
@@ -38,17 +38,17 @@
 
 ---
 
-## 📊 GitHub Stats (FIXED & WORKING)
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Awasthiutk564&show_icons=true&hide_border=true&theme=default&count_private=true" />
 
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Awasthiutk564&hide_border=true&theme=default" />
+ 
 </p>
 
 ---
 
-## 📈 Activity Graph (WORKING)
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awasthiutk564&theme=minimal&hide_border=true" width="90%" />
@@ -56,7 +56,7 @@
 
 ---
 
-## 🐍 Contribution Snake (LIVE)
+## 🐍 Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
