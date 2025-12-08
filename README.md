@@ -18,7 +18,7 @@
 | Category | Tools |
 |--------|---------------------------|
 | Programming | C, Python, MATLAB |
-| Embedded | Arduino Programming |
+| Embedded | IOT |
 | AI / ML | PyTorch, OpenCV, Scikit-Learn |
 | Data / Math | NumPy, Matplotlib |
 
