@@ -8,7 +8,7 @@
 
 ### 🧠 About Me  
 - 🔍 AI, GenAI & Computer Vision enthusiast  
-- ⚙ Turning concepts into real working systems  
+- ⚙ Turning concepts into real working systems.
 - 🚀 Learning. Building. Shipping. Repeating.
 
 ---
