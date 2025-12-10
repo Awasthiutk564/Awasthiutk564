@@ -1,21 +1,31 @@
-<h3 align="center" style="color:#00eaff;">👋 Hey, I'm Utkarsh Awasthi</h3>
+<!-- CYBER NEON HEADER -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?pause=1200&color=00F0FF&center=true&vCenter=true&width=500&lines=Learning.+Building.+Shipping.+Repeating.;AI+%7C+GenAI+%7C+Vision+Enthusiast" />
-</p>
+<h2 style="color:#00eaff; font-weight:700; letter-spacing:2px;">
+⚡ CYBERSPACE INITIATED ⚡
+</h2>
+
+<h3 style="color:#0afff3;">👋 Hey, I'm Utkarsh Awasthi</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=27&duration=2500&color=00F3FF&center=true&vCenter=true&width=600&lines=Learning.+Building.+Shipping.+Repeating.;AI+%7C+GenAI+%7C+Vision+Enthusiast" />
+
+</div>
 
 ---
 
+<!-- ABOUT SECTION -->
 <div align="center" style="
-border: 2px solid #00eaff;
-padding: 18px;
-border-radius: 12px;
-background: linear-gradient(135deg,#000000,#001f29,#001b33,#000000);
+border: 1px solid #00eaff;
+background: #020b10;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 0 12px #00eaff55;
 color:#00eaff;
 width:90%;
 ">
-  
-### 🧠 About Me  
+
+### 🧠 SYSTEM: About Me  
+
 - 🔍 AI, GenAI & Computer Vision enthusiast  
 - ⚙ Turning concepts into real working systems  
 - 🚀 Learning. Building. Shipping. Repeating  
@@ -24,9 +34,17 @@ width:90%;
 
 ---
 
-### 🛠 Tech Stack
+<!-- TECH STACK -->
+<h3 align="center" style="color:#00eaff;">🛠 TECH STACK</h3>
 
-<table align="center" style="width:90%; border: 1px solid #00eaff; border-radius:10px;">
+<table align="center" style="
+width:90%;
+border:1px solid #00eaff;
+border-radius:12px;
+background:#00070d;
+color:#00eaff;
+box-shadow:0 0 15px #00eaff55;
+">
 <tr><th>Category</th><th>Tools</th></tr>
 <tr><td>Programming</td><td>C, Python, MATLAB</td></tr>
 <tr><td>Embedded</td><td>Arduino IDE</td></tr>
@@ -36,7 +54,8 @@ width:90%;
 
 ---
 
-## 🏆 Achievements & Badges
+<!-- ACHIEVEMENTS -->
+<h3 align="center" style="color:#00eaff;">🏆 SYSTEM TROPHIES</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Awasthiutk564&theme=onestar&no-frame=true&margin-w=10&column=7" width="92%" />
@@ -50,17 +69,18 @@ width:90%;
 
 ---
 
-## 📊 GitHub Stats 
+<!-- GITHUB STATS -->
+<h3 align="center" style="color:#00eaff;">📊 SYSTEM PERFORMANCE METRICS</h3>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Awasthiutk564&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Awasthiutk564&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+<!-- ACTIVITY GRAPH -->
+<h3 align="center" style="color:#00eaff;">📈 NETWORK SIGNAL GRAPH</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awasthiutk564&theme=react-dark&hide_border=true" width="92%" />
@@ -68,7 +88,8 @@ width:90%;
 
 ---
 
-## 🐍 Contribution Snake
+<!-- CONTRIBUTION SNAKE -->
+<h3 align="center" style="color:#00eaff;">🐍 CONTRIBUTION SERPENT</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
@@ -76,14 +97,21 @@ width:90%;
 
 ---
 
-## 🌍 Connect With Me
+<!-- CONNECT -->
+<h3 align="center" style="color:#00eaff;">🌍 CONNECT WITH ME</h3>
 
 <p align="center">
   <a href="https://github.com/Awasthiutk564">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
-
+  
   <a href="https://www.linkedin.com/in/utkarsh-awasthi-276a92367/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 </p>
+
+---
+
+<div align="center" style="color:#00eaff; font-size:14px;">
+SYSTEM READY — CYBER NEON MODE ACTIVE  
+</div>
