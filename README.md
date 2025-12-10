@@ -1,51 +1,39 @@
 <h3 align="center" style="color:#00eaff;">👋 Hey, I'm Utkarsh Awasthi</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?pause=1200&color=00F0FF&center=true&vCenter=true&width=500&lines=Learning.+Building.+Shipping.+Repeating.;AI+%7C+GenAI+%7C+Vision+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?pause=1200&color=00F3FF&center=true&vCenter=true&width=500&lines=Learning.+Building.+Shipping.+Repeating.;AI+%7C+GenAI+%7C+Vision+Enthusiast" />
 </p>
 
 ---
 
-<div align="center" style="
-border: 2px solid #00eaff;
-padding: 18px;
-border-radius: 12px;
-background: linear-gradient(135deg,#000000,#001f29,#001b33,#000000);
-color:#00eaff;
-width:90%;
-">
-  
 ### 🧠 About Me  
 - 🔍 AI, GenAI & Computer Vision enthusiast  
-- ⚙ Turning concepts into real working systems  
-- 🚀 Learning. Building. Shipping. Repeating  
-
-</div>
+- ⚙ Turning concepts into real working systems.
+- 🚀 Learning. Building. Shipping. Repeating.
 
 ---
 
 ### 🛠 Tech Stack
 
-<table align="center" style="width:90%; border: 1px solid #00eaff; border-radius:10px;">
-<tr><th>Category</th><th>Tools</th></tr>
-<tr><td>Programming</td><td>C, Python, MATLAB</td></tr>
-<tr><td>Embedded</td><td>Arduino IDE</td></tr>
-<tr><td>AI / ML</td><td>PyTorch, OpenCV, Scikit-Learn</td></tr>
-<tr><td>Data / Math</td><td>NumPy, Matplotlib</td></tr>
-</table>
+| Category | Tools |
+|--------|---------------------------|
+| Programming | C, Python, MATLAB |
+| Embedded | Arduino IDE |
+| AI / ML | PyTorch, OpenCV, Scikit-Learn |
+| Data / Math | NumPy, Matplotlib |
 
 ---
 
 ## 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Awasthiutk564&theme=onestar&no-frame=true&margin-w=10&column=7" width="92%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Awasthiutk564&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7&cache=86400" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Awasthiutk564?style=for-the-badge&color=00eaff" />
-  <img src="https://img.shields.io/github/stars/Awasthiutk564?style=for-the-badge&color=00ffc6" />
-  <img src="https://komarev.com/ghpvc/?username=Awasthiutk564&style=for-the-badge&color=00f0ff" />
+  <img src="https://img.shields.io/github/followers/Awasthiutk564?style=for-the-badge&color=00eaff&labelColor=000000" />
+  <img src="https://img.shields.io/github/stars/Awasthiutk564?style=for-the-badge&color=00ffc6&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=Awasthiutk564&style=for-the-badge&color=00f0ff&labelColor=000000" />
 </p>
 
 ---
@@ -53,9 +41,9 @@ width:90%;
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Awasthiutk564&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img height="150" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=Awasthiutk564&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Awasthiutk564&hide_border=true&theme=tokyonight" />
+  <img height="150" src="https://streak-stats.demolab.com?user=Awasthiutk564&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -63,12 +51,12 @@ width:90%;
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awasthiutk564&theme=react-dark&hide_border=true" width="92%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awasthiutk564&theme=react-dark&hide_border=true" width="90%" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
@@ -80,10 +68,10 @@ width:90%;
 
 <p align="center">
   <a href="https://github.com/Awasthiutk564">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
+    <img src="https://skillicons.dev/icons?i=github" width="42" />
   </a>
 
   <a href="https://www.linkedin.com/in/utkarsh-awasthi-276a92367/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
   </a>
 </p>
