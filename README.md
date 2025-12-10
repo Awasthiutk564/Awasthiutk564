@@ -1,77 +1,43 @@
-<h3 align="center" style="color:#00eaff;">👋 Hey, I'm Utkarsh Awasthi</h3>
+# Hey, I'm Utkarsh Awasthi 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?pause=1200&color=00F3FF&center=true&vCenter=true&width=500&lines=Learning.+Building.+Shipping.+Repeating.;AI+%7C+GenAI+%7C+Vision+Enthusiast" />
+**AI • GenAI • Computer Vision**
+
+Building intelligent systems that see, learn, and solve real problems.
+
+---
+
+### About
+
+- 🔬 AI, GenAI & Computer Vision enthusiast
+- ⚡ Turning concepts into working systems
+- 🔄 Learning. Building. Shipping. Repeating.
+
+---
+
+### Tech Stack
+
+**Languages** &nbsp; `Python` `C` `MATLAB`
+
+**AI/ML** &nbsp; `PyTorch` `OpenCV` `Scikit-Learn`
+
+**Tools** &nbsp; `NumPy` `Matplotlib` `Arduino`
+
+---
+
+### Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Awasthiutk564&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Awasthiutk564&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6e7681" />
 </p>
 
 ---
 
-### 🧠 About Me  
-- 🔍 AI, GenAI & Computer Vision enthusiast  
-- ⚙ Turning concepts into real working systems.
-- 🚀 Learning. Building. Shipping. Repeating.
+### Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Awasthiutk564)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/utkarsh-awasthi-276a92367/)
 
 ---
 
-### 🛠 Tech Stack
-
-| Category | Tools |
-|--------|---------------------------|
-| Programming | C, Python, MATLAB |
-| Embedded | Arduino IDE |
-| AI / ML | PyTorch, OpenCV, Scikit-Learn |
-| Data / Math | NumPy, Matplotlib |
-
----
-
-## 🏆 Achievements & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Awasthiutk564&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7&cache=86400" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Awasthiutk564?style=for-the-badge&color=00eaff&labelColor=000000" />
-  <img src="https://img.shields.io/github/stars/Awasthiutk564?style=for-the-badge&color=00ffc6&labelColor=000000" />
-  <img src="https://komarev.com/ghpvc/?username=Awasthiutk564&style=for-the-badge&color=00f0ff&labelColor=000000" />
-</p>
-
----
-
-## 📊 GitHub Stats 
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=Awasthiutk564&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-
-  <img height="150" src="https://streak-stats.demolab.com?user=Awasthiutk564&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awasthiutk564&theme=react-dark&hide_border=true" width="90%" />
-</p>
-
----
-
-## 🐍 Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Awasthiutk564">
-    <img src="https://skillicons.dev/icons?i=github" width="42" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/utkarsh-awasthi-276a92367/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
-  </a>
-</p>
+<sub>*Learning. Building. Shipping. Repeating.*</sub>
