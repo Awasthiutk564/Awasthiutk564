@@ -8,7 +8,7 @@
 
 ### 🧠 About Me  
 🔍 AI, GenAI & Computer Vision enthusiast  
-⚙ Passionate about building real systems — not just ideas  
+⚙ Passionate about building real systems — not just ideas 
 🚀 Always exploring | Always building | Always improving  
 
 ---
