@@ -38,11 +38,18 @@
 
 ## Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Awasthiutk564&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Awasthiutk564&repo=satellite-srcnn&theme=github_dark&hide_border=true" alt="top contributed repo" />
+
+</div>
 
 ## Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/github-contribution-grid-snake-dark.svg)
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/github-contribution-grid-snake-dark.svg" />
+	<img alt="Snake animation" src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
+</picture>
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0d1117,50:161b22,100:21262d" alt="footer" />
