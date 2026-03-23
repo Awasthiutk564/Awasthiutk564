@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working on — The Satellite SRCNN project (Deep Learning-based super-resolution for satellite imagery with a FastAPI backend and React frontend)<br>🤝 I'm looking to collaborate on — Computer Vision and AI/ML projects, especially super-resolution, object detection, or satellite image analysis<br>💛 I'm looking for help with — Improving SRCNN model performance (the evaluation results show SRCNN underperforming Bicubic on several patches, which is worth investigating)<br>🌱 I'm currently learning — FastAPI, React + Vite, and deep learning deployment pipelines (based on your satellite-srcnn full-stack architecture)<br>💬 Ask me about — SRCNN architecture, PyTorch training pipelines, Sudoku solving algorithms (DFS + MRV + Forward Checking), and AI surveillance systems<br>⚡ Fun fact — Your SRCNN is trained on the UC Merced Land Use Dataset with 99x99 grayscale patches at a 3x scale factor, running 200 epochs with Adam optimizer at a learning rate of 5e-5
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-awasthi-276a92367/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awasthiutk13@gmail.com) 
 
