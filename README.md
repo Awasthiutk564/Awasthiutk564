@@ -1,109 +1,107 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1220,35:132238,70:1c3d5a,100:245d7a&text=Utkarsh%20Awasthi&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20in%20Progress%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=58&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,25:1e293b,55:0f766e,100:7c3aed&text=Utkarsh%20Awasthi&fontColor=f8fafc&fontAlignY=38&desc=Glassmorphism%20Portfolio%20%7C%20AI%2FML%20%7C%20Computer%20Vision&descAlignY=60&animation=fadeIn" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=980&lines=Building+practical+AI%2FML+projects+that+ship;Focused+on+Computer+Vision%2C+FastAPI%2C+and+React;Turning+models+into+usable+developer-friendly+systems" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2500&pause=800&color=E2E8F0&center=true&vCenter=true&width=980&lines=Designing+AI+projects+that+look+clean+and+work+hard;Computer+Vision+%7C+Deep+Learning+%7C+FastAPI+%7C+React;Building+from+model+training+to+usable+interfaces" alt="typing intro" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Awasthiutk564&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Awasthiutk564?style=for-the-badge&color=1d4ed8&labelColor=0f172a" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Awasthiutk564?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0f766e&labelColor=0f172a" alt="stars" />
+  <img src="https://img.shields.io/badge/Portfolio-Glass%20Mode-93C5FD?style=for-the-badge&labelColor=0f172a" alt="portfolio style" />
+  <img src="https://komarev.com/ghpvc/?username=Awasthiutk564&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Awasthiutk564?style=for-the-badge&color=c084fc&labelColor=0f172a" alt="followers" />
 </p>
 
 </div>
 
-## Developer Snapshot
-
-```text
-Name        : Utkarsh Awasthi
-Focus       : AI/ML, Computer Vision, Deep Learning Systems
-Building    : Satellite image super-resolution with SRCNN
-Stack       : Python, PyTorch, FastAPI, React, OpenCV
-Goal        : Ship projects that are technically strong and production-aware
-```
-
-## About Me
-
-I am building projects at the intersection of machine learning and usable software. My current work is centered on computer vision systems, model experimentation, and turning research-style ideas into applications with clean APIs and frontend interfaces.
-
-I am especially interested in:
-
-- satellite imagery and image super-resolution
-- deep learning workflows in PyTorch
-- backend APIs for ML systems using FastAPI
-- frontend integration for model demos with React
-- practical problem solving through applied AI
-
-## Current Focus
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Building
+## Frosted Card 01
 
-- Satellite SRCNN pipeline for image super-resolution
-- FastAPI backend for serving model workflows
-- React frontend for clean project demos
+```yaml
+name: Utkarsh Awasthi
+role: AI/ML Developer
+focus: Computer Vision and Deep Learning Systems
+current_build: Satellite SRCNN project
+strength: Turning ML ideas into usable products
+```
 
 </td>
 <td width="50%" valign="top">
 
-### Exploring
+## Frosted Card 02
 
-- model performance tuning beyond bicubic baselines
-- deployment-ready AI project structure
-- stronger end-to-end engineering around ML systems
+```yaml
+backend: FastAPI, Django, Express, Spring
+frontend: React, Tailwind CSS, Angular
+ml_stack: PyTorch, TensorFlow, OpenCV
+infra: Docker, PostgreSQL, MongoDB, Supabase
+```
 
 </td>
 </tr>
 </table>
+
+## About
+
+I build applied AI projects with a developer mindset: train the model, shape the API, wire the frontend, and make the whole system feel complete. My main interest is computer vision, especially projects that move beyond notebooks into clean, testable applications.
+
+## Focus Areas
+
+<div align="center">
+
+| Vision | Systems | Delivery |
+| :---: | :---: | :---: |
+| Satellite image super-resolution | ML APIs with FastAPI | React interfaces for demos |
+| Deep learning experimentation | Structured backend pipelines | Practical deployment workflow |
+| Applied AI problem solving | End-to-end project architecture | Portfolio-ready builds |
+
+</div>
 
 ## Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,fastapi,django,express,spring,tensorflow,pytorch,opencv,mongodb,postgresql,firebase,supabase,docker,git&perline=6" alt="tech stack" />
-
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,tailwind,fastapi,django,express,spring,pytorch,tensorflow,opencv,mongodb,postgresql,firebase,supabase,docker,git&perline=6" alt="tech stack" />
 </div>
 
-## What I Work With
+## Featured Project Window
 
-- Languages: Python, JavaScript, HTML, CSS
-- AI/ML: PyTorch, TensorFlow, scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, MLflow
-- Backend: FastAPI, Django, Express, Spring
-- Frontend: React, Tailwind CSS, Bootstrap, Angular
-- Data and Infra: MongoDB, PostgreSQL, Firebase, Supabase, Docker
-
-## Featured Work
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Awasthiutk564&repo=satellite-srcnn&theme=transparent&hide_border=true" alt="satellite-srcnn repo" />
+</div>
 
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Awasthiutk564&repo=satellite-srcnn&theme=transparent&hide_border=true" alt="satellite-srcnn repo" />
+<td width="50%" valign="top">
+
+### Currently Building
+
+- satellite image super-resolution pipelines
+- backend services for AI model interaction
+- frontend layers for presenting model results clearly
+
 </td>
 <td width="50%" valign="top">
 
-### Project Themes
+### Currently Improving
 
-- Computer vision experiments
-- ML-backed web applications
-- Solver and algorithmic problem solving
-- AI systems with practical UI and API layers
+- model quality beyond bicubic baselines
+- project structure for production-style delivery
+- engineering polish across ML applications
 
 </td>
 </tr>
 </table>
 
-## GitHub Analytics
+## Analytics Wall
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Awasthiutk564&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awasthiutk564&layout=compact&theme=transparent&hide_border=true" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Awasthiutk564&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=e2e8f0&text_color=cbd5e1&icon_color=93c5fd" alt="github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awasthiutk564&layout=compact&theme=transparent&hide_border=true&title_color=e2e8f0&text_color=cbd5e1" alt="top languages" />
 </div>
 
 <div align="center">
-  <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Awasthiutk564&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=f8fafc&area=true&hide_border=true" alt="activity graph" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Awasthiutk564&bg_color=0f172a&color=e2e8f0&line=93c5fd&point=c084fc&area=true&hide_border=true" alt="activity graph" />
 </div>
 
 ## Connect
@@ -123,5 +121,5 @@ I am especially interested in:
 </picture>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0b1220,35:132238,70:1c3d5a,100:245d7a" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,25:1e293b,55:0f766e,100:7c3aed" alt="footer" />
 </div>
