@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2500&pause=800&color=E2E8F0&center=true&vCenter=true&width=980&lines=Designing+AI+projects+that+look+clean+and+work+hard;Computer+Vision+%7C+Deep+Learning+%7C+FastAPI+%7C+React;Building+from+model+training+to+usable+interfaces" alt="typing intro" />
 
 <p>
-  <img src="https://img.shields.io/badge/Portfolio-Glass%20Mode-93C5FD?style=for-the-badge&labelColor=0f172a" alt="portfolio style" />
+  <img src="https://img.shields.io/badge/Portfolio%20Mode-93C5FD?style=for-the-badge&labelColor=0f172a" alt="portfolio style" />
   <img src="https://komarev.com/ghpvc/?username=Awasthiutk564&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Awasthiutk564?style=for-the-badge&color=c084fc&labelColor=0f172a" alt="followers" />
 </p>
