@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,25:1e293b,55:0f766e,100:7c3aed&text=Utkarsh%20Awasthi&fontColor=f8fafc&fontAlignY=38&desc=HOLA%20AMIGO%20%7C%20AI%2FML%20%7C%20Computer%20Vision&descAlignY=60&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,25:1e293b,55:0f766e,100:7c3aed&text=Utkarsh%20Awasthi&fontColor=f8fafc&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20Builder&descAlignY=60&animation=fadeIn" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2500&pause=800&color=E2E8F0&center=true&vCenter=true&width=980&lines=Designing+AI+projects+that+look+clean+and+work+hard;Computer+Vision+%7C+Deep+Learning+%7C+FastAPI+%7C+React;Building+from+model+training+to+usable+interfaces" alt="typing intro" />
 
 <p>
-  <img src="https://img.shields.io/badge/Portfolio-Glass%20Mode-93C5FD?style=for-the-badge&labelColor=0f172a" alt="portfolio style" />
+  <img src="https://img.shields.io/badge/Dev%20Mode-On-5EEAD4?style=for-the-badge&labelColor=0f172a" alt="dev mode on" />
   <img src="https://komarev.com/ghpvc/?username=Awasthiutk564&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Awasthiutk564?style=for-the-badge&color=c084fc&labelColor=0f172a" alt="followers" />
 </p>
@@ -16,7 +16,7 @@
 <tr>
 <td width="50%" valign="top">
 
-## Frosted Card 01
+## Developer Snapshot
 
 ```yaml
 name: Utkarsh Awasthi
@@ -29,7 +29,7 @@ strength: Turning ML ideas into usable products
 </td>
 <td width="50%" valign="top">
 
-## Frosted Card 02
+## Core Stack
 
 ```yaml
 backend: FastAPI, Django, Express, Spring
@@ -64,11 +64,13 @@ I build applied AI projects with a developer mindset: train the model, shape the
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,tailwind,fastapi,django,express,spring,pytorch,tensorflow,opencv,mongodb,postgresql,firebase,supabase,docker,git&perline=6" alt="tech stack" />
 </div>
 
-## Featured Project Window
+## Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Awasthiutk564&repo=satellite-srcnn&theme=transparent&hide_border=true" alt="satellite-srcnn repo" />
-</div>
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| [satellite-srcnn](https://github.com/Awasthiutk564/satellite-srcnn) | Deep learning-based super-resolution for satellite imaging systems | Python |
+| [student-health-model](https://github.com/Awasthiutk564/student-health-model) | Model comparison, confusion matrices, and project-level ML reporting | Python |
+| [Sudoku-DFS-Visualizer-C](https://github.com/Awasthiutk564/Sudoku-DFS-Visualizer-C) | DFS and backtracking visualized through a C-based Sudoku solver | C |
 
 <table>
 <tr>
@@ -93,21 +95,17 @@ I build applied AI projects with a developer mindset: train the model, shape the
 </tr>
 </table>
 
-## Analytics Wall
+## GitHub Pulse
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Awasthiutk564&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=e2e8f0&text_color=cbd5e1&icon_color=93c5fd" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awasthiutk564&layout=compact&theme=transparent&hide_border=true&title_color=e2e8f0&text_color=cbd5e1" alt="top languages" />
-</div>
-
-<div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Awasthiutk564&bg_color=0f172a&color=e2e8f0&line=93c5fd&point=c084fc&area=true&hide_border=true" alt="activity graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Awasthiutk564&bg_color=0d1117&color=e5eef7&line=2dd4bf&point=60a5fa&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
 ## Connect
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://utkarsh-awasthi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-awasthi-276a92367/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awasthiutk564@gmail.com)
 
@@ -115,10 +113,13 @@ I build applied AI projects with a developer mindset: train the model, shape the
 
 ## Contribution Trail
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
+  </picture>
+</div>
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,25:1e293b,55:0f766e,100:7c3aed" alt="footer" />
