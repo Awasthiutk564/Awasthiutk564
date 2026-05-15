@@ -115,7 +115,7 @@ I build applied AI projects with a developer mindset: train the model, shape the
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
   </picture>
