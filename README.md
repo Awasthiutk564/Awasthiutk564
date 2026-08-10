@@ -22,7 +22,7 @@
 name: Utkarsh Awasthi
 Interests: AI&ML,IOT, Embedded systems
 focus: Computer Vision and Architecture
-current_build: Satellite SRCNN project
+current_build: IDP 420 project
 strength: Turning ML ideas into usable products
 ```
 
