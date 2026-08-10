@@ -20,8 +20,8 @@
 
 ```yaml
 name: Utkarsh Awasthi
-role: AI/ML Developer
-focus: Computer Vision and Deep Learning Systems
+Interests: AI&ML,IOT, Embedded systems
+focus: Computer Vision and Architecture
 current_build: Satellite SRCNN project
 strength: Turning ML ideas into usable products
 ```
