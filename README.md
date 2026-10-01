@@ -1,5 +1,4 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,25:1e293b,55:0f766e,100:7c3aed&text=Utkarsh%20Awasthi&fontColor=f8fafc&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20Builder&descAlignY=60&animation=fadeIn" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2500&pause=800&color=E2E8F0&center=true&vCenter=true&width=980&lines=Designing+AI+projects+that+look+clean+and+work+hard;Computer+Vision+%7C+Deep+Learning+%7C+FastAPI+%7C+React;Building+from+model+training+to+usable+interfaces" alt="typing intro" />
