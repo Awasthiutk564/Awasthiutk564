@@ -34,6 +34,11 @@ def default_input():
 INP = sys.argv[1] if len(sys.argv) > 1 else default_input()
 OUT = sys.argv[2] if len(sys.argv) > 2 else os.path.join(ROOT, "source-prepped.png")
 
+# head-and-shoulders crop: keep a square this fraction of the subject's height,
+# starting at the top of the head and centered on it. a half-body photo leaves
+# the face tiny in a 100-column grid; set to 1.0 for an already tight headshot.
+BUST = 0.55
+
 # 1. cut out the subject (exif_transpose so phone photos aren't sideways)
 cut = remove(ImageOps.exif_transpose(Image.open(INP)).convert("RGBA"))
 rgb = np.array(cut.convert("RGB"))
@@ -60,6 +65,16 @@ mask = alpha.astype(np.float32) / 255.0
 mask = cv2.GaussianBlur(mask, (0, 0), 1.0)
 out = gray.astype(np.float32) * mask + 255.0 * (1.0 - mask)
 out = np.clip(out, 0, 255).astype(np.uint8)
+
+# 4. crop to head and shoulders, centered on the head
+h, w = out.shape
+if BUST < 1.0:
+    side = int(h * BUST)
+    head = out[: int(h * 0.25)]
+    cols = np.where((head < 200).any(axis=0))[0]
+    cx = (cols.min() + cols.max()) // 2 if len(cols) else w // 2
+    x0 = max(0, min(w - side, cx - side // 2))
+    out = out[:side, x0:x0 + side]
 
 # square it up on white so the portrait is centered in the ascii grid
 h, w = out.shape
