@@ -1,54 +1,37 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,25:1e293b,55:0f766e,100:7c3aed&text=Utkarsh%20Awasthi&fontColor=f8fafc&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20Builder&descAlignY=60&animation=fadeIn" alt="header" />
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2500&pause=800&color=E2E8F0&center=true&vCenter=true&width=980&lines=Designing+AI+projects+that+look+clean+and+work+hard;Computer+Vision+%7C+Deep+Learning+%7C+FastAPI+%7C+React;Building+from+model+training+to+usable+interfaces" alt="typing intro" />
+<h3><code>utkarsh@github ~ $ ./contributions.sh</code></h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Dev%20Mode-On-5EEAD4?style=for-the-badge&labelColor=0f172a" alt="dev mode on" />
-  <img src="https://komarev.com/ghpvc/?username=Awasthiutk564&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Awasthiutk564?style=for-the-badge&color=c084fc&labelColor=0f172a" alt="followers" />
-</p>
+<img src="./contrib-heatmap.svg" width="860" alt="Utkarsh's GitHub contribution graph, auto-refreshed daily" />
 
-</div>
+<br>
+<br>
+
+<!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style card.
+     widths add up to the graph's 860 and both panels land at the same height.
+     portrait: drop a photo at ./source-photo.jpg and the workflow rebuilds it
+     card:     python scripts/make_info_card.py -->
+
+<h3><code>utkarsh@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-## Developer Snapshot
-
-```yaml
-name: Utkarsh Awasthi
-Interests: AI&ML,IOT, Embedded systems
-focus: Computer Vision and Architecture
-current_build: IDP 420 project
-strength: Turning ML ideas into usable products
-```
-
-</td>
-<td width="50%" valign="top">
-
-## Core Stack
-
-```yaml
-backend: FastAPI, Django, Express, Spring
-frontend: React, Tailwind CSS, Angular
-ml_stack: PyTorch, TensorFlow, OpenCV
-infra: Docker, PostgreSQL, MongoDB, Supabase
-```
-
-</td>
+<td valign="top"><img src="./utkarsh-ascii.svg" width="370" alt="Utkarsh Awasthi, ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Utkarsh Awasthi, neofetch-style info card" /></td>
 </tr>
 </table>
 
-## About
+<br>
+<br>
 
-I build applied AI projects with a developer mindset: train the model, shape the API, wire the frontend, and make the whole system feel complete. My main interest is computer vision, especially projects that move beyond notebooks into clean, testable applications.
+<h3><code>utkarsh@github ~ $ cat about.txt</code></h3>
 
-## Focus Areas
+<p><b>AI/ML Developer · Computer Vision · Full-Stack Builder</b></p>
 
-<div align="center">
+<p>I build applied AI projects with a developer mindset: train the model, shape the API, wire the frontend, and make the whole system feel complete. My main interest is computer vision, especially projects that move beyond notebooks into clean, testable applications.</p>
 
 | Vision | Systems | Delivery |
 | :---: | :---: | :---: |
@@ -56,15 +39,9 @@ I build applied AI projects with a developer mindset: train the model, shape the
 | Deep learning experimentation | Structured backend pipelines | Practical deployment workflow |
 | Applied AI problem solving | End-to-end project architecture | Portfolio-ready builds |
 
-</div>
+<br>
 
-## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,tailwind,fastapi,django,express,spring,pytorch,tensorflow,opencv,mongodb,postgresql,firebase,supabase,docker,git&perline=6" alt="tech stack" />
-</div>
-
-## Featured Projects
+<h3><code>utkarsh@github ~ $ ls ~/projects</code></h3>
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
@@ -72,55 +49,24 @@ I build applied AI projects with a developer mindset: train the model, shape the
 | [student-health-model](https://github.com/Awasthiutk564/student-health-model) | Model comparison, confusion matrices, and project-level ML reporting | Python |
 | [Sudoku-DFS-Visualizer-C](https://github.com/Awasthiutk564/Sudoku-DFS-Visualizer-C) | DFS and backtracking visualized through a C-based Sudoku solver | C |
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### Currently Building
+<h3><code>utkarsh@github ~ $ ./stack.sh</code></h3>
 
-- satellite image super-resolution pipelines
-- backend services for AI model interaction
-- frontend layers for presenting model results clearly
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,tailwind,fastapi,django,express,spring,pytorch,tensorflow,opencv,mongodb,postgresql,firebase,supabase,docker,git&perline=10" alt="tech stack" />
 
-</td>
-<td width="50%" valign="top">
+<br>
+<br>
 
-### Currently Improving
+<h3><code>utkarsh@github ~ $ ./links.sh</code></h3>
 
-- model quality beyond bicubic baselines
-- project structure for production-style delivery
-- engineering polish across ML applications
+[![Portfolio](https://img.shields.io/badge/Portfolio-utkarsh--awasthi.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://utkarsh-awasthi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-utkarsh--awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-awasthi-276a92367/)
+[![Email](https://img.shields.io/badge/Email-awasthiutk564@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awasthiutk564@gmail.com)
 
-</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=Awasthiutk564&label=Profile%20Views&color=22d3ee&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Awasthiutk564?style=flat-square&color=22d3ee&labelColor=0d1117" alt="followers" />
 
-## GitHub Pulse
+<br>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Awasthiutk564&bg_color=0d1117&color=e5eef7&line=2dd4bf&point=60a5fa&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
-
-## Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://utkarsh-awasthi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-awasthi-276a92367/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awasthiutk564@gmail.com)
-
-</div>
-
-## Contribution Trail
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Awasthiutk564/Awasthiutk564/output/snake.svg" />
-  </picture>
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,25:1e293b,55:0f766e,100:7c3aed" alt="footer" />
 </div>
