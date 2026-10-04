@@ -1,17 +1,17 @@
 {
   "username": "Awasthiutk564",
-  "generated_at": "2026-10-03T11:41:28Z",
+  "generated_at": "2026-10-04T12:23:37Z",
   "range": {
-    "start": "2025-09-28",
-    "end": "2026-10-03"
+    "start": "2025-10-05",
+    "end": "2026-10-04"
   },
-  "total_contributions": 238,
-  "active_days": 71,
+  "total_contributions": 245,
+  "active_days": 72,
   "avg_per_active_day": 3.4,
   "current_streak": {
-    "length": 2,
+    "length": 3,
     "start": "2026-10-02",
-    "end": "2026-10-03"
+    "end": "2026-10-04"
   },
   "longest_streak": {
     "length": 23,
@@ -23,10 +23,6 @@
     "count": 17
   },
   "monthly": [
-    {
-      "month": "2025-09",
-      "total": 0
-    },
     {
       "month": "2025-10",
       "total": 0
@@ -77,38 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 5
+      "total": 12
     }
   ],
   "days": [
-    {
-      "date": "2025-09-28",
-      "count": 0
-    },
-    {
-      "date": "2025-09-29",
-      "count": 0
-    },
-    {
-      "date": "2025-09-30",
-      "count": 0
-    },
-    {
-      "date": "2025-10-01",
-      "count": 0
-    },
-    {
-      "date": "2025-10-02",
-      "count": 0
-    },
-    {
-      "date": "2025-10-03",
-      "count": 0
-    },
-    {
-      "date": "2025-10-04",
-      "count": 0
-    },
     {
       "date": "2025-10-05",
       "count": 0
@@ -1563,7 +1531,11 @@
     },
     {
       "date": "2026-10-03",
-      "count": 1
+      "count": 6
+    },
+    {
+      "date": "2026-10-04",
+      "count": 2
     }
   ]
 }
